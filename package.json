@@ -29,5 +29,7 @@
   "license": "BSD-2-Clause",
   "homepage": "https://github.com/messagebird/messagebird-nodejs",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "dotest": "^1.8.0"
+  }
 }
